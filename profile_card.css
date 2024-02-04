@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    height:auto;
+    height: auto;
   }
   
   body {
@@ -11,7 +11,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(#03a9f4, #03a9f4 45%, #fff 45%, #fff 100%);
+    background: linear-gradient(#8AAAE5, #8AAAE5 45%,  #FFFFFF 45%,  #FFFFFF 100%);
   }
   
   .card {
@@ -73,7 +73,7 @@
   
   .content .detail h2 span {
     font-size: 0.7em;
-    color: #03a9f4;
+    color: #8AAAE5;
     font-weight: bold;
   }
   
